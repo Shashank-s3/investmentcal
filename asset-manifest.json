@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/investcal/static/css/main.05aee645.css",
+    "main.js": "/investcal/static/js/main.01fdce80.js",
+    "static/js/592.0cdb089a.chunk.js": "/investcal/static/js/592.0cdb089a.chunk.js",
+    "static/media/investment-calculator-logo.png": "/investcal/static/media/investment-calculator-logo.c20da4d5b23f8d49ad00.png",
+    "index.html": "/investcal/index.html",
+    "main.05aee645.css.map": "/investcal/static/css/main.05aee645.css.map",
+    "main.01fdce80.js.map": "/investcal/static/js/main.01fdce80.js.map",
+    "592.0cdb089a.chunk.js.map": "/investcal/static/js/592.0cdb089a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05aee645.css",
+    "static/js/main.01fdce80.js"
+  ]
+}
